@@ -5,7 +5,7 @@ s.summary          = "some common tools used on iOS."
 s.description      = <<-DESC
 It is a marquee view used on iOS, which implement by Objective-C.
 DESC
-s.homepage         = "https://github.com/jkyhsx/CYKCommonTool"
+s.homepage         = "https://github.com/jkyhsx/iOS_common"
 # s.screenshots      = ""
 s.license          = 'MIT'
 s.author           = { "chenyuekai" => "630568109@qq.com" }
