@@ -24,5 +24,6 @@ s.source_files = 'CYKCommonTool/*'
 # s.osx.exclude_files = 'Classes/ios'
 # s.public_header_files = 'Classes/**/*.h'
 s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
+s.dependency 'Masonry', '~> 0.6.2'
 
 end
